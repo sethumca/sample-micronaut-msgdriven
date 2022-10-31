@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: com.az.mnmsgdriven
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, jackson-databind, java, java-application, junit, kafka, logback, micronaut-build, readme, shade, test-resources, yaml]
